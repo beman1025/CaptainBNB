@@ -75314,7 +75314,7 @@ const vc = {
           })]
         })]
       }), W.jsx("img", {
-        src: "/about.gif",
+        src: "/about.png",
         alt: "About",
         className: "w-1/3 lg:hidden block pointer-events-none"
       }), W.jsxs("div", {
@@ -75322,7 +75322,7 @@ const vc = {
         children: [W.jsx("div", {
           className: "lg:w-full",
           children: W.jsx("img", {
-            src: "/about.gif",
+            src: "/about.png",
             alt: "About",
             className: "absolute bottom-0 w-1/4 2xl:w-1/3 left-0 lg:block hidden right-0 lg:translate-x-[75px] pointer-events-none"
           })
