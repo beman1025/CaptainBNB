@@ -70828,7 +70828,7 @@ function pde() {
     boxShadow: "0px 4px 16px rgba(0, 0, 0, 0.2)"
   }, d = [{
     name: "NASDAQ666",
-    address: "0xcomingsoon",
+    address: "0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
     symbol: "CaptainBNB",
     decimals: 18,
     chainId: 56,
@@ -70856,7 +70856,7 @@ function pde() {
         theme: f,
         tokenList: d,
         provider: i,
-        defaultTokenOut: "0xcomingsoon",
+        defaultTokenOut: "0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
         defaultTokenIn: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         feeSetting: p,
         enableRoute: !0,
@@ -75275,7 +75275,7 @@ const vc = {
       })]
     })
   },
-  ly = "0xcomingsoon",
+  ly = "0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
   u1e = () => W.jsxs("section", {
     className: "relative bg-[#1b1b1b] w-full !z-20 py-20",
     children: [W.jsx("div", {
@@ -75402,7 +75402,7 @@ const vc = {
     className: "font-primary text-center text-white flex justify-center",
       children: [
         W.jsxs("iframe", {
-          src: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon&inputCurrency=BNB",
+          src: "https://pancakeswap.finance/swap?outputCurrency=0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741&inputCurrency=BNB",
           style: {width: "400px", height: "500px", marginTop: "30px"}
         }),
       ],
@@ -75493,12 +75493,12 @@ const vc = {
   },
   NL = [{
     img: "/imgs/socials/whitedextools.svg",
-    url: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+    url: "https://www.dextools.io/app/en/ether/pair-explorer/0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
     variant: "w-16 h-16",
     title: "Dextools"
   }, {
     img: "/imgs/socials/whitedexscreener.svg",
-    url: "https://dexscreener.com/bsc/0xcomingsoon",
+    url: "https://dexscreener.com/bsc/0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
     variant: "w-16 h-16",
     title: "Dexscreener"
   }, {
@@ -79186,7 +79186,7 @@ function Upe() {
           className: "!z-40"
         })]
       }), W.jsx(u1e, {}), W.jsx(jpe, {}), W.jsx("a", {
-        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
         children: W.jsx("img", {
           src: "/changenow.png",
           className: "fixed bottom-5 lg:right-5 right-0 left-0 mx-auto  z-[99999] duration-300 transition-all ease-in-out hover:scale-110 cursor-target"
