@@ -75493,7 +75493,7 @@ const vc = {
   },
   NL = [{
     img: "/imgs/socials/whitedextools.svg",
-    url: "https://www.dextools.io/app/en/ether/pair-explorer/0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
+    url: "https://www.dextools.io/app/en/bnb/pair-explorer/0x2133074f9fc088f83dfb9e7fe5b7b6a14c081741",
     variant: "w-16 h-16",
     title: "Dextools"
   }, {
