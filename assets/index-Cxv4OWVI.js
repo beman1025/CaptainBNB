@@ -75503,12 +75503,12 @@ const vc = {
     title: "Dexscreener"
   }, {
     img: "/imgs/socials/telegram.svg",
-    url: "https://t.me/CaptainBNBmascot",
+    url: "https://t.me/bsc_mascot_entry",
     variant: "w-16 h-16",
     title: "Telegram EN"
   }, {
     img: "/imgs/socials/twitter.svg",
-    url: "https://x.com/NDQ666_BSC",
+    url: "https://x.com/bsc_mascot",
     variant: "w-16 h-16",
     title: "Twitter EN"
   }],
